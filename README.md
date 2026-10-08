@@ -58,4 +58,4 @@ MIT (see LICENSE file).
 
 This is a personal tool, not a library. It works for me; if your launcher logs a different format, you'll need to tweak the regex in `parse_line`.
 
-<!-- last-checked: 2026-10-07 -->
+<!-- last-checked: 2026-10-08 -->
